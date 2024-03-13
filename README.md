@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on an Analysis of Retail Sales
+- 🔭 I’m currently working on an analysis of Retail Sales
 - 🌱 I’m currently learning Power BI
 - 🤔 I’m looking for help with connecting with professionals. Feel free to private message or email me for a chat 😄
 - 📫 How to reach me: mmattos2000@gmail.com
