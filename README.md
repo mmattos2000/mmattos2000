@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Melissa! 👋
 
-<!--
-**mmattos2000/mmattos2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an Analysis of Retail Sales
+- 🌱 I’m currently learning Power BI
+- 🤔 I’m looking for help with connecting with professionals. Feel free to private message or email me for a chat 😄
+- 💬 Ask me about working with data, baking, and traveling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills and Tools
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 📈 My GitHub Stats
+
+[![mmattos2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmattos2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 📫 How to Reach Me
+
+- Email: mmattos2000@gmail.com
+- LinkedIn: www.linkedin.com/in/melissamattosprofile
+
+
+
+
+<!-- This is a comment in Markdown -->
+
