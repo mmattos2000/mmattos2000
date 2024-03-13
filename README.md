@@ -17,10 +17,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📈 My GitHub Stats
-
-[![mmattos2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmattos2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mmattos2000.github.io/)
