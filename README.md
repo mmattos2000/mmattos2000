@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Power BI
 - 🤔 I’m looking for help with connecting with professionals. Feel free to private message or email me for a chat 😄
 - 📫 How to reach me: mmattos2000@gmail.com
-- 💬 Ask me about working baking and traveling
+- 💬 Ask me about baking and traveling
 
 
 ## 🛠️ Skills and Tools
